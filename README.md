@@ -1,6 +1,18 @@
 # bamazon
 Bamazon
 
+#Config
+create a config.js file with the following information specific to your local database: 
+```var config = {
+    host: 'localhost',
+    user: '',
+    password: '',
+    database: 'bamazon'
+  };
+```
+
+exports.config = config;
+
 # Usage 
 To run, and see a listing of items in the stored, enter: 
 ```node bamazonCustomer.js```
