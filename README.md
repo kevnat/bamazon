@@ -1,7 +1,7 @@
 # bamazon
 Bamazon
 
-#Config
+# Config
 create a config.js file with the following information specific to your local database: 
 ```var config = {
     host: 'localhost',
@@ -24,7 +24,7 @@ From there, follow the prompts for which Item, and how many you'd like to purcha
 ? How many would you like to buy?
 ```
 
-## Output
+# Output
 Users will be provided with the following information
 ```-------------------------
 You've selected2 unit(s) of item_id: 6
