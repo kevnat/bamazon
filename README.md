@@ -1,7 +1,7 @@
 # bamazon
-Bamazon
+Bamazon, a music store command-line interface. 
 
-# Config
+## Config
 create a config.js file with the following information specific to your local database: 
 ```
 var config = {
@@ -14,7 +14,7 @@ var config = {
 
 exports.config = config;
 
-# Usage 
+## Usage 
 To run, and see a listing of items in the stored, enter: 
 ```node bamazonCustomer.js```
 
@@ -25,7 +25,7 @@ From there, follow the prompts for which Item, and how many you'd like to purcha
 ? How many would you like to buy?
 ```
 
-# Output
+## Output
 Users will be provided with the following information
 ```-------------------------
 You've selected2 unit(s) of item_id: 6
