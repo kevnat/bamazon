@@ -3,7 +3,8 @@ Bamazon
 
 # Config
 create a config.js file with the following information specific to your local database: 
-```var config = {
+```
+var config = {
     host: 'localhost',
     user: '',
     password: '',
