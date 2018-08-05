@@ -1,8 +1,9 @@
 # bamazon
 Bamazon, a music store command-line interface. 
 
-## Config
-create a config.js file with the following information specific to your local database: 
+## Configuration
+Run sql found within schema.sql. 
+Then create a config.js file with the following information specific to your local database: 
 ```
 var config = {
     host: 'localhost',
