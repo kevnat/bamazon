@@ -4,6 +4,7 @@ Bamazon
 # Usage 
 To run, and see a listing of items in the stored, enter: 
 ```node bamazonCustomer.js```
+
 From there, follow the prompts for which Item, and how many you'd like to purchase. 
 
 ``` 
